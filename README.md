@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @topeonix
-- 👀 I’m a data analysis enthusiast
-- 🌱 Python, power bi, sql and tableau is what i'm currently learning
-- 💞️ I’m looking to collaborate on everything data
+- 💞️ I’m a data analyst and people analyst
+- 🌱 Python, power bi, sql and tableau are my core areas
+- 🌱 Learning data science
+- 👀 I’m looking to collaborate on everything data
 - 📫 Reach me by chatting me up
 
 <!---
